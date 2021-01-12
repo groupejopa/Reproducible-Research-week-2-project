@@ -1,4 +1,4 @@
-# Reproducible Research: 
+# Reproducible Research::
 
 ## Loading and preprocessing the data
 
