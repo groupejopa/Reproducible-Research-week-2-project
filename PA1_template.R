@@ -31,7 +31,7 @@ missing <- is.na(data$steps)
 table(missing)
 
 
-## ------------------------------------------------------------------------
+## -----------------------------------------------------------------------
 # Replace each missing value with the mean value of its 5-minute interval
 fill.value <- function(steps, interval) {
     filled <- NA
